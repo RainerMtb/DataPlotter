@@ -1,0 +1,5 @@
+.chart {
+	-fx-background-color: white;
+	-fx-horizontal-zero-line-visible: false;
+	-fx-vertical-zero-line-visible: false;
+}
